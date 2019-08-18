@@ -1,4 +1,4 @@
-# **GIN!**    
+# GIN!  
 
 ![Image](/screenshots/1_age_check.png)
 ![Image](/screenshots/2_geolocation.png)
@@ -13,13 +13,13 @@
 
 The project implemented a combination of two project specifications:
 
-###**Route Planner**
+### Route Planner
 Visit Scotland are looking for ways to encourage people to walk and cycle. Your task is to create an app that allows users to search for cycling and hiking routes, view routes on a map, save routes to a wishlist and mark a route done.
 
 You could use GoogleMaps Directions API:
 https://developers.google.com/maps/documentation/directions/
 
-###MVP
+### MVP
 Users should be able to:
 
 * Select start and finish locations for their route
@@ -27,14 +27,14 @@ Users should be able to:
 * Mark completed routes as ‘done’
 
 
-###**Store Finder**
+### Store Finder
 Global pub giant Withoutaspoon, wants a pub finder that allows users to "Find your nearest store" for their website.
 
 User should be able to enter their postcode or town or street name and get a list of the top ten nearest stores. Each store should have a distance, address, phone number, opening hours and a list of facilities and services (e.g. cash machine, car parking).
 
 You'll have to build your own API to persist the store data and use an external API to find addresses from postcodes.
 
-###MVP
+### MVP
 * Search by postcode or town or street name
 * A list of stores including the details of the stores
 * A map marking the stores
